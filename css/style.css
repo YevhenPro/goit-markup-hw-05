@@ -246,7 +246,7 @@ p {
 }
 
 .advantages-list-item.icon-antenna::before {
-	background-image: url(./images/antenna.svg);
+	background-image: url(/images/antenna.svg);
 }
 .advantages-list-item.icon-clock::before {
 	background-image: url(./images/clock.svg);
